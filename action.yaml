@@ -1,4 +1,4 @@
-name: Trigger Remote Workflow And Track Its Status
+name: Trigger Remote Workflow And Track Its Status (modified from anecdotes-ai)
 description: 'triggers a remote workflow and waits for its exit status'
 inputs:
   workflow-org:
